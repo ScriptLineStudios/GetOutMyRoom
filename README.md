@@ -22,5 +22,9 @@ Installation and Setup
 
       Log in using the same email address that you used to log in to your PC.
 
-  ![Screenshot2021061920055143](https://user-images.githubusercontent.com/85095943/148779234-200c759d-120f-4e2c-b21f-4e508d6b5bcc.png)
+  ![Screenshot2021061920055143](https://user-images.githubusercontent.com/85095943/148779234-200c759d-120f-4e2c-b21f-4e508d6b5bcc.png)\
+  
+  - Once you have setup pushbullet you will need an api key. To do this go to pushbullet.com -> Settings -> Generate Access Token
+  - Once the access token has been generated, go into ```scripts/config.py``` and paste you API key into the API_KEY field
+  - Run ```main.py```
 
