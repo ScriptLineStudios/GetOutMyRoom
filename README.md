@@ -9,14 +9,17 @@ Installation and Setup
 - Install the requirements 
 ```pip install -r requirements.txt```
 - Set up a Pushbullet account on your PC and Phone
-  For PC
+  
+ For PC
     Go to Pushbullet.com
+    
     Create an account
     
 ![Psuh-660x465](https://user-images.githubusercontent.com/85095943/148778992-a8f341ed-c43b-4472-b89f-c4af307bb9dd.png)
 
-  For Phone
+ For Phone
     Install the Pushbullet app on your phone.
+    
     Log in using the same email address that you used to log in to your PC.
     
 ![Screenshot2021061920055143](https://user-images.githubusercontent.com/85095943/148779234-200c759d-120f-4e2c-b21f-4e508d6b5bcc.png)
