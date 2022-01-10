@@ -1,9 +1,10 @@
 Get Out My Room v0.1
-[![Python 3.6](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-310/)
 ==============
 I hate people coming in my room when i'm not there. Get Out My Room is a simple security system that sends notifications with videos to your phone whenever people enter you room. 
 
 ![Capture](https://user-images.githubusercontent.com/85095943/148777964-f801275a-64ff-45ce-9e2a-fcf2b46c1a0e.PNG)
+
+[![Python 3.6](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-310/)
 
 Installation and Setup
 ==============
